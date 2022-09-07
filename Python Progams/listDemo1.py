@@ -1,0 +1,12 @@
+abc=[9,8,1,6,3,2];
+print(abc)
+print(abc.count(6));
+abc.sort();
+print(abc)
+abc.reverse();
+print(abc)
+abc.append(5);
+abc.insert(4,8);
+print(abc);
+abc.remove(8);
+abc.pop();
