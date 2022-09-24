@@ -1,0 +1,30 @@
+	1. Write a python program to display your profile details like rollname,name,age,city and state 
+		1 mark 
+	2. Write a python program to do addition of 3 numbers take value through keyboards. 
+		1 mark 
+	3. Write a python program to find the largest of 3 numbers take value through keyboards. 
+		1 mark 
+	4. Write a python program to find student grade base upon 
+	condition take sid,sname,3 marks details. if avg > 90 A++, avg > 75 A, avg > B else C grade. 
+		2.5 mark 
+	5. write a python function which takes empid,empname,salary,designation and base upon 
+	designation you have to give bonus as 
+	if manager bonus as 5000, if developer 3000 for other employee 1500.
+		2.5 mark 
+	6. write a program to take n value through keyboards and store in list and find the 
+	sum of those elements.(min 5 elements). display list element as well as sum of those elements. 
+		2.5 mark 
+	7. Write a program to store sid and sname for 5 employee details using dictionary. 
+		2.5 mark  
+	8.  Write a program interachange the value of a and b.
+	example if value of a =10 and value of b =20 without taking the help of third variable 
+	you have display value of a=20 and b =10
+	 2.5 mark 
+	9. create a list variable with values as 
+	num1=[10,20,30,40];
+	use pre defined methods and while displaying the value of num1 you must be get the output as 
+	[100,10,200,60,40,500]
+	2.5 mark 
+	10. write a program to find number is even or odd. 
+	1 mark
+	
